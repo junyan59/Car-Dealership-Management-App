@@ -1,0 +1,7 @@
+Team##:055
+TeamMember1 Feng Zhu    email: fzhu47@gatech.edu
+TeamMember2 Jun Yan     email: jyan320@gatech.edu
+TeamMember3 Tianlyu Zang    email: tzang6@gatech.edu
+
+
+Our sql queries are all in CS6400-2019-03-Team55\Phase_3\SQL_queries.sql file
