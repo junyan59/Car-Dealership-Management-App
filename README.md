@@ -4,11 +4,11 @@
 Built a web app with PHP for dealers to manage their inventories and business reports. Used LAMP (Linux, Apache, MySQL, PHP) stack for web app development. Designed and implemented the data schemas and business reports aggregations based on MySQL.
 
 ## Users
-• Customers
-• Inventory clerks, who buy vehicles and add them to inventory, along with information about the car’s previous owner (also considered customer information), and enter parts orders
-• Salespeople, who will only have access to searching available inventory, entering customer information, and entering sales transactions
-• Managers, who can view inventory, purchase history, sales transactions, parts order history, and reports
-• And the owner, Mr. Burdell, who has access to everything and can perform any activity in the system (a combination of all permissions)
+* Customers
+* Inventory clerks, who buy vehicles and add them to inventory, along with information about the car’s previous owner (also considered customer information), and enter parts orders
+* Salespeople, who will only have access to searching available inventory, entering customer information, and entering sales transactions
+* Managers, who can view inventory, purchase history, sales transactions, parts order history, and reports
+* And the owner, Mr. Burdell, who has access to everything and can perform any activity in the system (a combination of all permissions)
 
 ## Application Functionality
 
